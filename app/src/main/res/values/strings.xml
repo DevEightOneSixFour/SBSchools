@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SB_NYC_School</string>
+    <string name="sat_scores">SAT SCORES</string>
+    <string name="loading_schools">Loading Schools…</string>
+    <string name="loading_score">Loading Score…</string>
+    <string name="score_takers">Number of SAT Takers: %s</string>
+    <string name="score_math">Math Average: %s</string>
+    <string name="score_reading">Reading Average: %s</string>
+    <string name="score_writing">Writing Average: %s</string>
+    <string name="score_address">Address: %s</string>
+    <string name="score_email">Email: %s</string>
+    <string name="score_students">Total Students: %s</string>
+    <string name="score_overview">Overview\n%s</string>
+    <string name="score_empty">School does not have scores</string>
+    <string name="back_to_schools">Back to Schools</string>
+</resources>
